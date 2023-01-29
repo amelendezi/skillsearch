@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "skillsearch-4f136": {
+      "hosting": {
+        "skillsearch": [
+          "skillsearch-4f136"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "skillsearch-4f136"
+  }
+}
